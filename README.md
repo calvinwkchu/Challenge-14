@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to study several habits observed in the citibike data from New York City, where we hope to use the observations to help set-up our bike share business going forward.
+The purpose of this analysis is to study several habits observed in the citibike data from New York City, where we hope to use the observations to help set-up our bike share business going forward. These observations will be shown as pictures below but a dashboard is available for users to interact with the data (dashboard link provided at the end).
 
 ## Results
 
@@ -49,3 +49,5 @@ From our results, we were able to track the behavior of the bike-sharing communi
 Something else to potentially look into are the distribution of users by age, where we can bin certain age groups e.g. gen x, y, boomer, etc. as plot bar charts for the different customer base i.e. subscriber or customer. We can use this to learn more about our clientele.
 
 We should also look into the top 10/25 starting & ending locations and group them against the total locations in a pie chart. This would help tell us whether the business is highly concentrated in a few locations i.e. 80/20 rule. This information can help us start small on our business and focus on key locations in the downtown core, before expanding.
+
+[link to dashboard] https://public.tableau.com/profile/calvin3235#!/vizhome/BikeUsageAnalysis/BikeUsageAnalysis2
